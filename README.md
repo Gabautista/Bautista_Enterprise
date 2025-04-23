@@ -6,6 +6,10 @@ Considerações: Estou aprendendo front-end pela Faculdade XP - Assim que finali
 back-end também. - Ainda não iniciei a máteria de UX e UI. - Foi alterado o nome da empresa de Bautista peças para Bautista Enterprise
 afim de não só focar em venda de peças como também oferecer serviços diversos.
 
+Foco em criação de 2 sites:
+ 1° Conhecer a empresa, produtos e serviços oferecidos.
+ 2° Portal de vagas - recrutamento e seleção.
+
 Linguagens: Javascript e CSS.
 
 https://github.com/user-attachments/assets/2c6b6ebb-fc7b-4254-9cd1-88e608cbd3dc
