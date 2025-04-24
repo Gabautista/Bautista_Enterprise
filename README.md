@@ -14,3 +14,5 @@ Linguagens: Javascript e CSS.
 
 https://github.com/user-attachments/assets/2c6b6ebb-fc7b-4254-9cd1-88e608cbd3dc
 
+Projeto em pausa temporária.
+
